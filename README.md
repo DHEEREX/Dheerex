@@ -1,9 +1,9 @@
 ### Hi there 👋, I'm Joseph Distinction.
 ## 🚀 About Me
-I'm a Front-End Developer
+I'm a baby Front-End Developer
 
 ## 🛠 Skills
- HTML, CSS...
+ I'm currently learning HTML and CSS, also JavaScript soon...
 
 
 <!--
