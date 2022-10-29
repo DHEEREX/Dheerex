@@ -1,4 +1,10 @@
 ### Hi there 👋, I'm Joseph Distinction.
+## 🚀 About Me
+I'm a Front-End Developer
+
+## 🛠 Skills
+ HTML, CSS...
+
 
 <!--
 **DHEEREX/Dheerex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
